@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Social",
+  "description": "Full-stack real-time social media platform with React, Node.js, Express, MongoDB document store, Socket.io live updates, JWT authentication, and Axios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

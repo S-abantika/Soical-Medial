@@ -1,0 +1,644 @@
+{
+  "users": [
+    {
+      "_id": "usr_1788260622247_48so3opxo",
+      "followersCount": 0,
+      "followingCount": 0,
+      "followers": [],
+      "following": [],
+      "bookmarks": [],
+      "skills": [
+        "React",
+        "Node.js"
+      ],
+      "badges": [
+        "New Member"
+      ],
+      "createdAt": "2026-09-01T11:03:42.247Z",
+      "updatedAt": "2026-09-01T11:03:42.247Z",
+      "username": "alex",
+      "name": "alex",
+      "email": "alex@gmail.com",
+      "passwordHash": "$2b$10$nkFFGHk3j.iuIJb7ebz7ueKoCzyo7zMlufbxdV3QGYNjEOIsIJ/fy",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=400&auto=format&fit=crop&q=80",
+      "bio": "Building the future of social technology.",
+      "headline": "Full-stack",
+      "location": "Global",
+      "website": "",
+      "isVerified": false
+    },
+    {
+      "_id": "usr_alexchen",
+      "username": "alexchen",
+      "name": "Alex Chen",
+      "email": "alex@pulse.dev",
+      "passwordHash": "$2b$10$7RgnNYOdzwfw7iPBOwux2uJBWnyLcSA9jICxm8206aR26stk6MFh.",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
+      "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&auto=format&fit=crop&q=80",
+      "bio": "Staff Architect @ Veloce Labs • Building high-throughput distributed state engines • Open source maintainer • Passionate about clean code & real-time websockets.",
+      "headline": "Staff Systems Architect & Tech Lead",
+      "location": "San Francisco, CA",
+      "website": "https://alexchen.dev",
+      "skills": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Socket.io",
+        "JWT",
+        "TypeScript"
+      ],
+      "badges": [
+        "Staff Architect",
+        "Core Contributor",
+        "Verified Pro"
+      ],
+      "followersCount": 1420,
+      "followingCount": 3,
+      "followers": [
+        "usr_sarahdev",
+        "usr_marcus_ai",
+        "usr_elena_design",
+        "usr_jordan_cloud"
+      ],
+      "following": [
+        "usr_sarahdev",
+        "usr_marcus_ai",
+        "usr_elena_design"
+      ],
+      "bookmarks": [],
+      "isVerified": true,
+      "createdAt": "2026-05-03T13:20:35.114Z",
+      "updatedAt": "2026-08-31T15:12:59.158Z"
+    },
+    {
+      "_id": "usr_sarahdev",
+      "username": "sarahdev",
+      "name": "Sarah Jenkins",
+      "email": "sarah@pulse.dev",
+      "passwordHash": "$2b$10$7RgnNYOdzwfw7iPBOwux2uJBWnyLcSA9jICxm8206aR26stk6MFh.",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&auto=format&fit=crop&q=80",
+      "banner": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=1200&auto=format&fit=crop&q=80",
+      "bio": "Frontend Lead @ Horizon • Crafting silky-smooth 60fps web applications • Design system enthusiast • Speaker & Writer.",
+      "headline": "Frontend Engineer & UI Specialist",
+      "location": "Seattle, WA",
+      "website": "https://sarahjenkins.io",
+      "skills": [
+        "React 19",
+        "TailwindCSS",
+        "Motion",
+        "Next.js",
+        "Design Systems",
+        "Axios"
+      ],
+      "badges": [
+        "UI Maestro",
+        "Speaker"
+      ],
+      "followersCount": 2190,
+      "followingCount": 420,
+      "followers": [
+        "usr_alexchen",
+        "usr_marcus_ai",
+        "usr_elena_design"
+      ],
+      "following": [
+        "usr_alexchen",
+        "usr_marcus_ai",
+        "usr_jordan_cloud"
+      ],
+      "bookmarks": [],
+      "isVerified": true,
+      "createdAt": "2026-06-02T13:20:35.114Z",
+      "updatedAt": "2026-08-30T13:20:35.114Z"
+    },
+    {
+      "_id": "usr_marcus_ai",
+      "username": "marcus_ai",
+      "name": "Marcus Vance",
+      "email": "marcus@pulse.dev",
+      "passwordHash": "$2b$10$7RgnNYOdzwfw7iPBOwux2uJBWnyLcSA9jICxm8206aR26stk6MFh.",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80",
+      "banner": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&auto=format&fit=crop&q=80",
+      "bio": "AI Systems Engineer & LLM Pipeline builder • Deep learning optimization, vector stores & real-time streaming architectures.",
+      "headline": "AI Systems Lead @ NeuroFlow",
+      "location": "Austin, TX",
+      "website": "https://marcusvance.ai",
+      "skills": [
+        "PyTorch",
+        "Node.js",
+        "Embeddings",
+        "MongoDB",
+        "FastAPI"
+      ],
+      "badges": [
+        "AI Pioneer"
+      ],
+      "followersCount": 3840,
+      "followingCount": 290,
+      "followers": [
+        "usr_alexchen",
+        "usr_sarahdev",
+        "usr_jordan_cloud"
+      ],
+      "following": [
+        "usr_alexchen",
+        "usr_sarahdev"
+      ],
+      "bookmarks": [],
+      "isVerified": true,
+      "createdAt": "2026-04-03T13:20:35.114Z",
+      "updatedAt": "2026-08-31T08:20:35.114Z"
+    },
+    {
+      "_id": "usr_elena_design",
+      "username": "elena_design",
+      "name": "Elena Rostova",
+      "email": "elena@pulse.dev",
+      "passwordHash": "$2b$10$7RgnNYOdzwfw7iPBOwux2uJBWnyLcSA9jICxm8206aR26stk6MFh.",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&auto=format&fit=crop&q=80",
+      "banner": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?w=1200&auto=format&fit=crop&q=80",
+      "bio": "Product Designer & Design Technologist • Obsessed with micro-interactions, dark mode palettes, and mathematical typography systems.",
+      "headline": "Design Director @ Atelier Labs",
+      "location": "New York, NY",
+      "website": "https://elenarostova.design",
+      "skills": [
+        "Figma",
+        "UI/UX",
+        "Tailwind",
+        "CSS Architecture",
+        "Prototyping"
+      ],
+      "badges": [
+        "Design Lead",
+        "Verified Pro"
+      ],
+      "followersCount": 3,
+      "followingCount": 310,
+      "followers": [
+        "usr_sarahdev",
+        "usr_marcus_ai",
+        "usr_alexchen"
+      ],
+      "following": [
+        "usr_alexchen",
+        "usr_sarahdev"
+      ],
+      "bookmarks": [],
+      "isVerified": true,
+      "createdAt": "2026-02-12T13:20:35.114Z",
+      "updatedAt": "2026-08-31T15:12:59.160Z"
+    },
+    {
+      "_id": "usr_jordan_cloud",
+      "username": "jordan_cloud",
+      "name": "Jordan Lee",
+      "email": "jordan@pulse.dev",
+      "passwordHash": "$2b$10$7RgnNYOdzwfw7iPBOwux2uJBWnyLcSA9jICxm8206aR26stk6MFh.",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&auto=format&fit=crop&q=80",
+      "banner": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&auto=format&fit=crop&q=80",
+      "bio": "Cloud Infrastructure & Kubernetes specialist. Building zero-downtime microservices and automated deployment pipelines.",
+      "headline": "Site Reliability & Cloud Architect",
+      "location": "Toronto, Canada",
+      "website": "https://jordancloud.dev",
+      "skills": [
+        "Kubernetes",
+        "Docker",
+        "AWS",
+        "GCP",
+        "Node.js",
+        "Observability"
+      ],
+      "badges": [
+        "DevOps Master"
+      ],
+      "followersCount": 980,
+      "followingCount": 150,
+      "followers": [
+        "usr_alexchen",
+        "usr_sarahdev"
+      ],
+      "following": [
+        "usr_alexchen",
+        "usr_marcus_ai"
+      ],
+      "bookmarks": [],
+      "isVerified": false,
+      "createdAt": "2026-06-12T13:20:35.114Z",
+      "updatedAt": "2026-08-26T13:20:35.114Z"
+    }
+  ],
+  "posts": [
+    {
+      "_id": "post_realtime_stack",
+      "authorId": "usr_alexchen",
+      "author": {
+        "_id": "usr_alexchen",
+        "username": "alexchen",
+        "name": "Alex Chen",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
+        "isVerified": true,
+        "headline": "Staff Systems Architect & Tech Lead"
+      },
+      "content": "⚡ Exciting update: We just completed our full-stack real-time architecture utilizing Express, Socket.io, JWT tokens, and MongoDB document persistence!\n\nThe latency between state mutations and UI reconciliation across multiple connected clients is now under 12ms. Check out the clean real-time message stream below! 🚀\n\nWhat are your favorite patterns for handling socket reconnection in production?",
+      "mediaUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&auto=format&fit=crop&q=80",
+      "mediaType": "image",
+      "tags": [
+        "FullStack",
+        "NodeJS",
+        "Express",
+        "SocketIO",
+        "WebDev",
+        "React"
+      ],
+      "likes": [
+        "usr_sarahdev",
+        "usr_marcus_ai",
+        "usr_elena_design",
+        "usr_jordan_cloud"
+      ],
+      "reposts": [
+        "usr_sarahdev",
+        "usr_elena_design"
+      ],
+      "commentsCount": 3,
+      "pinned": true,
+      "createdAt": "2026-08-31T11:20:35.114Z",
+      "updatedAt": "2026-08-31T11:20:35.114Z"
+    },
+    {
+      "_id": "post_clean_ui",
+      "authorId": "usr_elena_design",
+      "author": {
+        "_id": "usr_elena_design",
+        "username": "elena_design",
+        "name": "Elena Rostova",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&auto=format&fit=crop&q=80",
+        "isVerified": true,
+        "headline": "Design Director @ Atelier Labs"
+      },
+      "content": "Design tip of the week: Stop using arbitrary purple-to-blue gradients and floating glow cards. Instead:\n\n1. Use refined neutral palettes with <5% saturation\n2. Establish strict mathematical hierarchy (Major Second / Perfect Fourth)\n3. Calculate inner border-radius = outer radius - padding\n\nHigh visual craft comes from disciplined negative space and typography! ✨",
+      "mediaUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=1200&auto=format&fit=crop&q=80",
+      "mediaType": "image",
+      "tags": [
+        "UIUX",
+        "DesignSystems",
+        "Typography",
+        "Frontend"
+      ],
+      "likes": [
+        "usr_alexchen",
+        "usr_sarahdev",
+        "usr_marcus_ai"
+      ],
+      "reposts": [
+        "usr_alexchen"
+      ],
+      "commentsCount": 2,
+      "createdAt": "2026-08-31T07:20:35.114Z",
+      "updatedAt": "2026-08-31T07:20:35.114Z"
+    },
+    {
+      "_id": "post_backend_poll",
+      "authorId": "usr_marcus_ai",
+      "author": {
+        "_id": "usr_marcus_ai",
+        "username": "marcus_ai",
+        "name": "Marcus Vance",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80",
+        "isVerified": true,
+        "headline": "AI Systems Lead @ NeuroFlow"
+      },
+      "content": "📊 Community Poll: When deploying high-concurrency microservices, which protocol do you prioritize for server-to-client streaming updates? Cast your vote and share your benchmarks!",
+      "poll": {
+        "question": "Preferred streaming communication layer?",
+        "options": [
+          {
+            "id": "opt_1",
+            "text": "Socket.io / Native WebSockets",
+            "votes": [
+              "usr_alexchen",
+              "usr_sarahdev",
+              "usr_elena_design",
+              "usr_jordan_cloud"
+            ]
+          },
+          {
+            "id": "opt_2",
+            "text": "Server-Sent Events (SSE)",
+            "votes": [
+              "usr_marcus_ai"
+            ]
+          },
+          {
+            "id": "opt_3",
+            "text": "gRPC Web Streams",
+            "votes": []
+          },
+          {
+            "id": "opt_4",
+            "text": "HTTP Long-Polling",
+            "votes": []
+          }
+        ]
+      },
+      "tags": [
+        "WebSockets",
+        "Architecture",
+        "Engineering",
+        "Poll"
+      ],
+      "likes": [
+        "usr_alexchen",
+        "usr_sarahdev"
+      ],
+      "reposts": [],
+      "commentsCount": 1,
+      "createdAt": "2026-08-31T03:20:35.114Z",
+      "updatedAt": "2026-08-31T03:20:35.114Z"
+    },
+    {
+      "_id": "post_code_snippet",
+      "authorId": "usr_sarahdev",
+      "author": {
+        "_id": "usr_sarahdev",
+        "username": "sarahdev",
+        "name": "Sarah Jenkins",
+        "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&auto=format&fit=crop&q=80",
+        "isVerified": true,
+        "headline": "Frontend Engineer & UI Specialist"
+      },
+      "content": "Here is the clean Axios interceptor snippet we use for seamless JWT bearer token injection and centralized 401 unauthenticated redirect handling in React:\n\nTake a look and feel free to integrate this into your stack!",
+      "mediaType": "code",
+      "codeSnippet": {
+        "language": "javascript",
+        "title": "axiosClient.js",
+        "code": "import axios from 'axios';\n\nexport const apiClient = axios.create({\n  baseURL: '/api',\n  headers: { 'Content-Type': 'application/json' },\n  timeout: 10000,\n});\n\napiClient.interceptors.request.use((config) => {\n  const token = localStorage.getItem('pulse_token');\n  if (token) {\n    config.headers.Authorization = `Bearer ${token}`;\n  }\n  return config;\n});\n\napiClient.interceptors.response.use(\n  (res) => res.data,\n  (err) => {\n    if (err.response?.status === 401) {\n      localStorage.removeItem('pulse_token');\n      window.dispatchEvent(new CustomEvent('auth:expired'));\n    }\n    return Promise.reject(err);\n  }\n);"
+      },
+      "tags": [
+        "Axios",
+        "JavaScript",
+        "React",
+        "Auth",
+        "CleanCode"
+      ],
+      "likes": [
+        "usr_alexchen",
+        "usr_marcus_ai",
+        "usr_jordan_cloud"
+      ],
+      "reposts": [
+        "usr_alexchen",
+        "usr_marcus_ai"
+      ],
+      "commentsCount": 2,
+      "createdAt": "2026-08-30T13:20:35.114Z",
+      "updatedAt": "2026-08-30T13:20:35.114Z"
+    },
+    {
+      "_id": "post_ai_agents",
+      "authorId": "usr_jordan_cloud",
+      "author": {
+        "_id": "usr_jordan_cloud",
+        "username": "jordan_cloud",
+        "name": "Jordan Lee",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&auto=format&fit=crop&q=80",
+        "isVerified": false,
+        "headline": "Site Reliability & Cloud Architect"
+      },
+      "content": "Containerizing Node.js + Express with health-check probes on port 3000 ensures continuous uptime. Combined with MongoDB replicaset and Socket.io redis adapter, you get effortless horizontal scaling! 🌐",
+      "mediaUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&auto=format&fit=crop&q=80",
+      "mediaType": "image",
+      "tags": [
+        "Cloud",
+        "DevOps",
+        "NodeJS",
+        "Express",
+        "Infra"
+      ],
+      "likes": [
+        "usr_alexchen",
+        "usr_sarahdev"
+      ],
+      "reposts": [],
+      "commentsCount": 0,
+      "createdAt": "2026-08-29T13:20:35.114Z",
+      "updatedAt": "2026-08-29T13:20:35.114Z"
+    }
+  ],
+  "comments": [
+    {
+      "_id": "comm_1",
+      "postId": "post_realtime_stack",
+      "authorId": "usr_sarahdev",
+      "author": {
+        "_id": "usr_sarahdev",
+        "username": "sarahdev",
+        "name": "Sarah Jenkins",
+        "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&auto=format&fit=crop&q=80",
+        "isVerified": true
+      },
+      "content": "The 12ms latency is fantastic! The instant optimistic UI updates on the React front-end make it feel instantaneous.",
+      "likes": [
+        "usr_alexchen"
+      ],
+      "createdAt": "2026-08-31T12:20:35.114Z"
+    },
+    {
+      "_id": "comm_2",
+      "postId": "post_realtime_stack",
+      "authorId": "usr_marcus_ai",
+      "author": {
+        "_id": "usr_marcus_ai",
+        "username": "marcus_ai",
+        "name": "Marcus Vance",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80",
+        "isVerified": true
+      },
+      "content": "Brilliant work Alex. Socket.io rooms paired with MongoDB change streams is such an elegant architecture.",
+      "likes": [
+        "usr_alexchen",
+        "usr_sarahdev"
+      ],
+      "createdAt": "2026-08-31T12:35:35.114Z"
+    },
+    {
+      "_id": "comm_3",
+      "postId": "post_realtime_stack",
+      "authorId": "usr_elena_design",
+      "author": {
+        "_id": "usr_elena_design",
+        "username": "elena_design",
+        "name": "Elena Rostova",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&auto=format&fit=crop&q=80",
+        "isVerified": true
+      },
+      "content": "And the interface transitions look super crisp on mobile screens too!",
+      "likes": [
+        "usr_alexchen"
+      ],
+      "createdAt": "2026-08-31T13:00:35.114Z"
+    },
+    {
+      "_id": "comm_4",
+      "postId": "post_clean_ui",
+      "authorId": "usr_alexchen",
+      "author": {
+        "_id": "usr_alexchen",
+        "username": "alexchen",
+        "name": "Alex Chen",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
+        "isVerified": true
+      },
+      "content": "The inner border radius formula is an absolute golden rule that so many apps overlook. Great advice!",
+      "likes": [
+        "usr_elena_design"
+      ],
+      "createdAt": "2026-08-31T09:20:35.114Z"
+    },
+    {
+      "_id": "comm_5",
+      "postId": "post_code_snippet",
+      "authorId": "usr_jordan_cloud",
+      "author": {
+        "_id": "usr_jordan_cloud",
+        "username": "jordan_cloud",
+        "name": "Jordan Lee",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&auto=format&fit=crop&q=80",
+        "isVerified": false
+      },
+      "content": "Clean and readable! Adding retry exponential backoff on 401 token refresh completes the full pattern nicely.",
+      "likes": [
+        "usr_alexchen"
+      ],
+      "createdAt": "2026-08-30T19:20:35.114Z"
+    }
+  ],
+  "messages": [
+    {
+      "_id": "msg_1",
+      "senderId": "usr_sarahdev",
+      "receiverId": "usr_alexchen",
+      "content": "Hey Alex! Loved the real-time social platform demo. The Socket.io integration is super snappy.",
+      "read": true,
+      "createdAt": "2026-08-31T10:20:35.114Z"
+    },
+    {
+      "_id": "msg_2",
+      "senderId": "usr_alexchen",
+      "receiverId": "usr_sarahdev",
+      "content": "Thanks Sarah! The React 19 motion transitions paired with the Axios interceptors made state syncing really clean.",
+      "read": true,
+      "createdAt": "2026-08-31T11:20:35.114Z"
+    },
+    {
+      "_id": "msg_3",
+      "senderId": "usr_sarahdev",
+      "receiverId": "usr_alexchen",
+      "content": "Awesome! Are you planning to add direct audio/photo attachment sharing in the chat view next?",
+      "read": false,
+      "createdAt": "2026-08-31T13:05:35.114Z"
+    },
+    {
+      "_id": "msg_4",
+      "senderId": "usr_marcus_ai",
+      "receiverId": "usr_alexchen",
+      "content": "Alex, let us coordinate on the MongoDB index optimization for full-text hashtag search.",
+      "read": true,
+      "createdAt": "2026-08-31T03:20:35.114Z"
+    },
+    {
+      "_id": "msg_1788261620222_1e62mxz6x",
+      "senderId": "usr_1788260622247_48so3opxo",
+      "receiverId": "usr_alexchen",
+      "content": "hii",
+      "read": false,
+      "createdAt": "2026-09-01T11:20:20.222Z"
+    }
+  ],
+  "notifications": [
+    {
+      "_id": "notif_1788189179154_x853zr5gz",
+      "read": false,
+      "createdAt": "2026-08-31T15:12:59.154Z",
+      "recipientId": "usr_elena_design",
+      "actorId": "usr_alexchen",
+      "actor": {
+        "_id": "usr_alexchen",
+        "username": "alexchen",
+        "name": "Alex Chen",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
+        "isVerified": true
+      },
+      "type": "follow",
+      "content": "started following your profile"
+    },
+    {
+      "_id": "notif_1",
+      "recipientId": "usr_alexchen",
+      "actorId": "usr_sarahdev",
+      "actor": {
+        "_id": "usr_sarahdev",
+        "username": "sarahdev",
+        "name": "Sarah Jenkins",
+        "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&auto=format&fit=crop&q=80",
+        "isVerified": true
+      },
+      "type": "like",
+      "entityId": "post_realtime_stack",
+      "content": "liked your post about Full-Stack Real-Time Architecture",
+      "read": false,
+      "createdAt": "2026-08-31T12:50:35.114Z"
+    },
+    {
+      "_id": "notif_2",
+      "recipientId": "usr_alexchen",
+      "actorId": "usr_marcus_ai",
+      "actor": {
+        "_id": "usr_marcus_ai",
+        "username": "marcus_ai",
+        "name": "Marcus Vance",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80",
+        "isVerified": true
+      },
+      "type": "comment",
+      "entityId": "post_realtime_stack",
+      "content": "commented on your post: \"Brilliant work Alex...\"",
+      "read": false,
+      "createdAt": "2026-08-31T12:35:35.114Z"
+    },
+    {
+      "_id": "notif_3",
+      "recipientId": "usr_alexchen",
+      "actorId": "usr_jordan_cloud",
+      "actor": {
+        "_id": "usr_jordan_cloud",
+        "username": "jordan_cloud",
+        "name": "Jordan Lee",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&auto=format&fit=crop&q=80",
+        "isVerified": false
+      },
+      "type": "follow",
+      "content": "started following you",
+      "read": true,
+      "createdAt": "2026-08-30T13:20:35.114Z"
+    },
+    {
+      "_id": "notif_4",
+      "recipientId": "usr_alexchen",
+      "actorId": "usr_elena_design",
+      "actor": {
+        "_id": "usr_elena_design",
+        "username": "elena_design",
+        "name": "Elena Rostova",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&auto=format&fit=crop&q=80",
+        "isVerified": true
+      },
+      "type": "repost",
+      "entityId": "post_realtime_stack",
+      "content": "reposted your publication",
+      "read": true,
+      "createdAt": "2026-08-31T12:20:35.114Z"
+    }
+  ]
+}
